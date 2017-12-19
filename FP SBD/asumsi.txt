@@ -1,0 +1,2 @@
+Asumsi :
+- Satu paket laundry hanya bisa diproses di satu cabang.
