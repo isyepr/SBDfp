@@ -3,6 +3,8 @@
 1. berat laundryan tidak dalam desimal
 2. Mengambil laundry hanya bisa di cabang masuk atau cabang proses
 3. Promo berlaku dalam durasi bulanan
+4. 1 karyawan hanya bisa bekerja dalam satu cabang
+5. pengambilan laundry hanya bisa dilakukan di cabang masuk atau proses
 
 
 catatan:
